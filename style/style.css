@@ -66,7 +66,7 @@ header {
   font-size: 16px;
   font-weight: bold;
   padding: 10px 16px;
-  border-radius: 6px;
+  border-radius: 10px;
   
   height: 48px;
   width: 132px;
@@ -78,7 +78,7 @@ header {
   padding: 10px 16px;
   margin: 15px;
   border: none;
-  border-radius: 6px;
+  border-radius: 10px;
   cursor: pointer;
 }
 
@@ -122,7 +122,7 @@ header {
   height: 40px;
   width: 190px;
   text-align: center;
-  border-radius: 7px;
+  border-radius: 10px;
   border: none;
 }
 .container1{
@@ -157,6 +157,7 @@ header {
 .stats-container {
   display: flex;
   justify-content: space-around;
+  border-radius: 14px;
 
 }
 
